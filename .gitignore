@@ -1,0 +1,12 @@
+ftpsync.settings
+application/logs/
+.ftpconfig
+.ftpignore
+uploads/
+application/cache/*
+!application/cache/.htaccess
+!application/cache/index.html
+application/config/database.php
+application/config/config.php
+application/config/email.php
+cache/
